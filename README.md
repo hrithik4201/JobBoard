@@ -32,11 +32,11 @@ This is job Application built using React and Firebase for authetication. To fet
 ![image](https://github.com/hrithik4201/JobBoard/assets/70754092/665c8e07-1c3b-4a53-8dd6-529f56229e58)
 
 
-###Application Form
+### Application Form
 ![image](https://github.com/hrithik4201/JobBoard/assets/70754092/a976ece9-b345-4bae-a40e-d247ddde5bb0)
 
 
-###Success Page
+### Success Page
 ![image](https://github.com/hrithik4201/JobBoard/assets/70754092/b5f4dcea-1fc6-4cd8-b06c-7c0882bc4623)
 
 
