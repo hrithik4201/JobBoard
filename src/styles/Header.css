@@ -1,0 +1,43 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 3rem 0px;
+}
+
+.logout {
+  color: rgb(255, 255, 255);
+  border: 0px;
+  cursor: pointer;
+  display: inline-flex;
+  padding: 0.5rem 0.5rem;
+  position: relative;
+  font-size: 1.2rem;
+  text-align: center;
+  font-weight: 700;
+  border-radius: 0.5rem;
+  justify-content: center;
+  background-color: #121721;
+}
+
+header {
+  background-size: cover;
+  background-position: center;
+  height: 170px;
+  background-image: url('../assets/bg-pattern-header.svg');
+}
+
+@media (max-width: 600px) {
+  header {
+    background-image: url('../assets/bg-pattern-header-mobile.svg');
+  }
+  .logo {
+    width: 20rem;
+  }
+
+  .header {
+    flex-direction: column;
+    gap: 2rem;
+    padding-top: 30px;
+  }
+}

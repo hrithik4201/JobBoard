@@ -1,0 +1,27 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+}
+
+.dropdown-label {
+  font-size: 20px;
+  padding: 20px;
+}
+
+.dropdown-menu {
+  width: 250px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(89, 100, 224);
+  color: white;
+  font-size: 20px;
+}
+
+@media (max-width: 600px) {
+  .dropdown-label {
+    text-align: center;
+  }
+}
